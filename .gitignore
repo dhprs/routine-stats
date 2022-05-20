@@ -9,13 +9,10 @@
 .Ruserdata
 data_original/
 outputs/
-index_files/
-site_libs/
 *.R
 index.Rmd
 *.csv
 *.css
-_site.yml
 
 # Example code in package build process
 *-Ex.R
@@ -25,7 +22,7 @@ _site.yml
 docs/data_original/
 docs/*.csv
 docs/*.css
-dosc/outputs/
+docs/outputs/
 
 # Output files from R CMD check
 /*.Rcheck/
